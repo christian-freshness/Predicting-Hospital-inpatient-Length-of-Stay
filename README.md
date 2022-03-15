@@ -4,7 +4,7 @@
 <p3>The ability to predict how long a patient will stay, only with information available as soon as they enter the hospital and are diagnosed, can therefore have many positive effects for a hospital and its efficiency. A model that can predict patient length of stay could allow hospitals to better analyze the factors that influence length of stay the most.</p3>
 
 ### Data: 
-The data used for this analysis is the NY Hospital Inpatient Discharges dataset gotten from <a href="https://health.data.ny.gov/dataset/Hospital-Inpatient-Discharges-SPARCS-De-Identified/22g3-z7e7">New York State Government health data website</a>
+The data used for the analysis and Model creation is the NY Hospital Inpatient Discharges dataset gotten from <a href="https://health.data.ny.gov/dataset/Hospital-Inpatient-Discharges-SPARCS-De-Identified/22g3-z7e7">New York State Government health data website</a>
 
 ### Stacks:
 <li>Cogram</li><li>Plotly</li><li>Matplotlib</li><li>Scikit learn librabries</li><li>Gradio(for deploying the demo model)</li><li>pandas</li><li>Numpy</li><li>Seaborn</li>
