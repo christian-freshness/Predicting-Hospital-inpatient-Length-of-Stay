@@ -10,7 +10,7 @@ The data used for the analysis and Model creation is the NY Hospital Inpatient D
 <li>Cogram</li><li>Plotly</li><li>Matplotlib</li><li>Scikit learn librabries</li><li>Gradio(for deploying the demo model)</li><li>pandas</li><li>Numpy</li><li>Seaborn</li>
 
 ### Blog
-You can find the link to my medium blogpost <a href="https://medium.com/@christianajulor/predicting-hospital-length-of-stay-for-inpatients-diagnosed-with-schizophrenia-and-other-psychotic-bf02c50db0c">Here</a>
+You can find the link to my blogpost on medium <a href="https://medium.com/@christianajulor/predicting-hospital-length-of-stay-for-inpatients-diagnosed-with-schizophrenia-and-other-psychotic-bf02c50db0c">Here</a>
 
 ### **Notice:
 The rendering of plotly is limited on github, to view the interactive plots, please view the notebook on Nbviewer (contains the full interactive plots not rendered on github)
